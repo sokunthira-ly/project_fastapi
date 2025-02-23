@@ -15,5 +15,4 @@ Open your browsers Past (http://127.0.0.1:8000)
 
 You will see your Project is running
 
-
-##Thank you 
+## Thank you 
